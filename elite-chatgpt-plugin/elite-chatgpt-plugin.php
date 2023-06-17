@@ -51,3 +51,5 @@ class EliteAco_ChatGPT_Plugin {
     }
   }
 }
+
+new EliteAco_ChatGPT_Plugin();
