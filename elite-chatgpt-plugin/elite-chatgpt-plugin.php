@@ -65,6 +65,9 @@ class EliteAco_ChatGPT_Plugin {
         <?php
         return ob_get_clean();
     }
+
 }
 
+
 new EliteAco_ChatGPT_Plugin();
+
