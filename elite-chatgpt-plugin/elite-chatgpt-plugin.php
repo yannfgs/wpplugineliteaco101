@@ -8,6 +8,7 @@ Author: Seu Nome
 Author URI: https://www.eliteaco.com
 */
 
+
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly
 }
